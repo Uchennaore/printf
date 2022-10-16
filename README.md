@@ -1,2 +1,2 @@
-# _printf
+# _Printf
 ### Group project on printf
