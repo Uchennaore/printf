@@ -3,19 +3,20 @@
 #include <unistd.h>
 #include <stdarg.h>
 
+int check_formatter(va_list args, const char *format, print_a_t print_a[])
+
 /**
- * check_formatter - a function checks if the character pointer 
+ * check_formatter - a function checks if the character pointer
  * if it is NULL, it returns the number of charaters which is 0. Verifies
  * if the first character is a "%", then moves to the next character,
  * checks the array of structs, if they match, run the function. If not, print
  * the % and the character.
  * @args: a pointer that is initiated by va_list
  * @format: a pointer variable that points to _printf
- * @print_a: the array of structs that is initiated in the _printf function
+ * @_printf: the array of structs that is initiated in the _printf function
  *
  * Return: 0. else return number of characters printed
  */
-
 int check_formatter(va_list args, const char *format, print_a_t print_a[])
 {
 	int formatter, i, j, chars;
