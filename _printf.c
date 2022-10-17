@@ -3,8 +3,7 @@
 /**
  * _printf - function that produces output according to a format
  * @format: formats the sting containing the character
- * and the specifier c & s
- *
+ * and the specifier 
  * Return: the length of the formatted output string.
  */
 
