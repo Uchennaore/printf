@@ -1,7 +1,9 @@
-#ifndef HEADER
-#define HEADER
-#include <stdlib.h>
+#ifndef MAIN_H
+#define MAIN_H
+
 #include <stdarg.h>
+#include <stdlib.h>
+#include <unistd.h>
 
 /**
  * struct flags - struct containing flags to "turn on"
