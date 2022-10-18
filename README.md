@@ -87,6 +87,9 @@ Handle the `-` flag character for non-custom conversion specifiers.
 Handle the following custom conversion specifier:
 - `r`: prints the reversed string
 
+## Task 14
+Handle the following custom conversion specifier:
+
 
 
 
