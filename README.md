@@ -65,6 +65,9 @@ Handle the following flag characters for non-custom conversion specifiers:
 - space
 - `#`
 
+## Task 8
+Handle the following length modifiers for non-custom conversion specifiers:
+
 
 
 
