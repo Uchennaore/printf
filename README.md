@@ -83,6 +83,14 @@ Handle the `0` flag character for non-custom conversion specifiers.
 ## Task 12
 Handle the `-` flag character for non-custom conversion specifiers.
 
+## Task 13
+Handle the following custom conversion specifier:
+- `r`: prints the reversed string
+
+## Task 14
+Handle the following custom conversion specifier:
+- `R`: prints the rot13'ed string
+
 
 
 
