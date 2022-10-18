@@ -89,6 +89,7 @@ Handle the following custom conversion specifier:
 
 ## Task 14
 Handle the following custom conversion specifier:
+- `R`: prints the rot13'ed string
 
 
 
