@@ -1,3 +1,4 @@
 # _Printf
 ### Group project on printf
-review
+## prototype 
+- int _printf(const char *format, ...);
