@@ -77,6 +77,9 @@ Handle the field width for non-custom conversion specifiers.
 ## Task 10
 Handle the precision for non-custom conversion specifiers.
 
+## Task 11
+Handle the `0` flag character for non-custom conversion specifiers.
+
 
 
 
