@@ -49,6 +49,7 @@ Use a local buffer of 1024 chars in order to call `write` as little as possible.
 
 ## Task 5
 Handle the following custom conversion specifier:
+- `S`: prints the string.
 
 
 
