@@ -74,6 +74,9 @@ Conversion specifiers to handle: `d`,`i`,`u`,`o`,`x`,`X`
 ## Task 9
 Handle the field width for non-custom conversion specifiers.
 
+## Task 10
+Handle the precision for non-custom conversion specifiers.
+
 
 
 
