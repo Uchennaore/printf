@@ -1,4 +1,8 @@
+#include <stdarg.h>
 #include "main.h"
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 /**
  * print_int - prints an integer
