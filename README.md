@@ -80,6 +80,9 @@ Handle the precision for non-custom conversion specifiers.
 ## Task 11
 Handle the `0` flag character for non-custom conversion specifiers.
 
+## Task 12
+Handle the `-` flag character for non-custom conversion specifiers.
+
 
 
 
